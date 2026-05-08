@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+REPORTS/
+*.png
+*.jpg
+*.jpeg
+.venv/
+venv/
